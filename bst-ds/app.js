@@ -221,6 +221,7 @@ class Node {
   bst.add(6);
   bst.add(22);
   bst.add(5);
+  bst.add(77);
   bst.add(7);
   bst.add(20);
   
